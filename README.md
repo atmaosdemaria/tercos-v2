@@ -25,8 +25,8 @@ Este é o portfólio online do **Ateliê Mãos de Maria**, um espaço artesanal 
 
 ## Como Ver o Portfólio Online
 Acesse o site hospedado gratuitamente no Netlify:  
-👉 **[https://ateliemaosdemaria.netlify.app](https://ateliemaosdemaria.netlify.app)**  
-*(substitua pelo link real após o deploy)*
+👉 **[https://atmaosdemaria.github.io/tercos-v2/]([https://atmaosdemaria.github.io/tercos-v2/])**  
+
 
 ## Como Contribuir ou Comprar
 - **Quer um terço personalizado?** Clique no botão WhatsApp de qualquer peça ou envie mensagem direta:  
